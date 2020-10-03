@@ -22,5 +22,9 @@ Daksh Jain
 Developer| Technical Consultant and an ardent fan of Real Madrid :)
 DakshJn
 ```
-
+#### 5
+```
+Adit Ahmedabadi
+Developer| Machine/Deep Learning Enthusiast with problem solving skills
+```
 
